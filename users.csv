@@ -1,3 +1,4 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
 kana,Kana Natsuno,,"Tokyo, Japan",,TRUE,"To Vim, or not to Vim.",142,982,563,2008-02-29T17:09:01Z
 kakutani,Kakutani Shintaro,"Freelance, Ruby-no-Kai","Tokyo, Japan",shintaro@kakutani.com,TRUE,"a plain-old agile rubyist-ist. keeb zombie.
 ",57,523,47,2008-03-04T17:11:22Z
